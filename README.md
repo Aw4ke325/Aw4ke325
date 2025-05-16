@@ -16,11 +16,11 @@
 
 | Skill/Area                     | Description                                  | Related Project(s)                                                                 |
 |-------------------------------|----------------------------------------------|------------------------------------------------------------------------------------|
-| 🕸️ Web Application Pentesting | XSS, SQLi, Auth Bypass, etc.                 | [Secure API Gateway](https://github.com/Aw4ke325/Secure-API-Gateway) - [Web App Pentesting Notes]() - [Writeups]()             |
-| 🏰 Active Directory Attacks   | Kerberoasting, Pass-the-Hash, BloodHound     | [AD Lab Setup]() - [Active Directory Pentesting Notes]() - [Writeups]()                    |
+| 🕸️ Web Application Pentesting | XSS, SQLi, Auth Bypass, etc.                 | [Secure API Gateway](https://github.com/Aw4ke325/Secure-API-Gateway) - [Web App Pentesting Notes]() - [Writeups]() - [Security Assessment Simulation](https://github.com/Aw4ke325/Security-Assessment-Simulation)             |
+| 🏰 Active Directory Attacks   | Kerberoasting, Pass-the-Hash, BloodHound     | [AD Lab Setup]() - [Active Directory Pentesting Notes]() - [Writeups]() - [Security Assessment Simulation](https://github.com/Aw4ke325/Security-Assessment-Simulation)                   |
 | 🧪 Malware Analysis           | Static & Dynamic analysis of PE/APK files    | [Malware Analysis Sandbox](https://github.com/yourusername/malware-sandbox)       |
 | 🧰 Scripting & Automation     | Python scripts for recon, analysis, tooling  | [Windows Forensics Tool ](https://github.com/Aw4ke325/Windows-Forensics-Tool)            |
-| 🧠 CTF & Platform Labs        | HTB/THM writeups and skill-building labs     | [Writeups]()  |
+| 🧠 CTF & Platform Labs        | HTB/THM writeups and skill-building labs     | [Writeups]() - [Security Assessment Simulation](https://github.com/Aw4ke325/Security-Assessment-Simulation)  |
 | 📦 Lab Deployment             | Proxmox, VirtualBox, Windows/Parrot VMs      | [AD Lab Setup]()                      |
 
 
