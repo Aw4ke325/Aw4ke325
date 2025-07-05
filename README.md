@@ -21,7 +21,7 @@
 | 🧪 Malware Analysis           | Static & Dynamic analysis of PE/APK files    | [Malware Analysis Sandbox](https://github.com/yourusername/malware-sandbox)       |
 | 🧰 Scripting & Automation     | Python scripts for recon, analysis, tooling  | [Windows Forensics Tool ](https://github.com/Aw4ke325/Windows-Forensics-Tool)            |
 | 🧠 CTF & Platform Labs        | HTB/THM writeups and skill-building labs     | [Writeups]() - [Security Assessment Simulation](https://github.com/Aw4ke325/Security-Assessment-Simulation)  |
-| 📦 Lab Deployment             | Proxmox, VirtualBox, Windows/Parrot VMs      | [AD Lab Setup]()                      |
+| 📦 Lab Deployment             | Proxmox, VirtualBox, Windows/Parrot/Kali VMs      | [AD Lab Setup]()                      |
 
 
 
