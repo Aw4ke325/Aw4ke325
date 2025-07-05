@@ -10,7 +10,7 @@
 - I'm a cybersecurity engineer with a passion for **penetration testing** and **malware analysis**
 - I specialize in **web app vulnerabilities** and **Active Directory attacks**
 - I enjoy reversing malware and scripting tools for automation
-- Always learning — currently hacking away on **Hack The Box**, **TryHackMe**, and personal labs
+- Always learning, currently hacking away on **Hack The Box**, **TryHackMe**, and personal labs
 
 ## 🛠️ Skills & Projects
 
